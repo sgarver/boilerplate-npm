@@ -2,11 +2,17 @@
     "name": "fcc-learn-npm-package-json",
     "author": "Stephen Garver",
     "description": "My Awesome FreeCodeCamp Node API Demo",
-    "keywords": ["freecodecamp", "demo", "node", "api"],
+    "keywords": [
+        "freecodecamp",
+        "demo",
+        "node",
+        "api"
+    ],
     "license": "GPL-3.0",
     "version": "1.0.0",
     "dependencies": {
-        "express": "^4.14.0"
+        "express": "^4.14.0",
+        "moment": "2.14.0"
     },
     "main": "server.js",
     "scripts": {
