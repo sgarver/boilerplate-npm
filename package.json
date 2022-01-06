@@ -1,15 +1,16 @@
 {
-	"name": "fcc-learn-npm-package-json",
-        "author": "Stephen Garver",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+    "name": "fcc-learn-npm-package-json",
+    "author": "Stephen Garver",
+    "description": "My Awesome FreeCodeCamp Node API Demo",
+    "dependencies": {
+        "express": "^4.14.0"
+    },
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://idontknow/todo.git"
+    }
 }
