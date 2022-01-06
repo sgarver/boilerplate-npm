@@ -4,6 +4,7 @@
     "description": "My Awesome FreeCodeCamp Node API Demo",
     "keywords": ["freecodecamp", "demo", "node", "api"],
     "license": "GPL-3.0",
+    "version": "1.0.0",
     "dependencies": {
         "express": "^4.14.0"
     },
