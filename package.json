@@ -3,7 +3,8 @@
     "author": "Stephen Garver",
     "description": "My Awesome FreeCodeCamp Node API Demo",
     "keywords": ["freecodecamp", "demo", "node", "api"],
-   "dependencies": {
+    "license": "GPL-3.0",
+    "dependencies": {
         "express": "^4.14.0"
     },
     "main": "server.js",
